@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-
-**MohMost87/MohMost87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### 👋 Hi, I'm a Data Scientist & Analytics Specialist
 > *Turning complex data structures into automated, executive-ready insights.*
 
