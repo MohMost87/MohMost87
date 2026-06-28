@@ -1,4 +1,4 @@
-## Hi there 👋
+## Data (The new Oil)
 
 ### 👋 Hi, I'm a Data Scientist & Analytics Specialist
 > *Turning complex data structures into automated, executive-ready insights.*
