@@ -1,6 +1,6 @@
 ## Data (The new Oil)
 
-### 👋 Hi, I'm a Data Scientist & Analytics Manager
+### 👋 Hi, I'm a Data Scientist & Analytics Manager with Power Platforms
 > *Turning complex data structures into automated, executive-ready insights.*
 
 - 🔭 **I’m currently working on:** Building advanced operational scorecards and automating enterprise-level data collection workflows.
